@@ -1,0 +1,12 @@
+D:\Ki2Nam4\Testing\Testing_Lab\Lab4\HinhChuNhat_Bai4\HinhChuNhat_Bai4\bin\Debug\net8.0\HinhChuNhat_Bai4.deps.json
+D:\Ki2Nam4\Testing\Testing_Lab\Lab4\HinhChuNhat_Bai4\HinhChuNhat_Bai4\bin\Debug\net8.0\HinhChuNhat_Bai4.dll
+D:\Ki2Nam4\Testing\Testing_Lab\Lab4\HinhChuNhat_Bai4\HinhChuNhat_Bai4\bin\Debug\net8.0\HinhChuNhat_Bai4.pdb
+D:\Ki2Nam4\Testing\Testing_Lab\Lab4\HinhChuNhat_Bai4\HinhChuNhat_Bai4\obj\Debug\net8.0\HinhChuNhat_Bai4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ki2Nam4\Testing\Testing_Lab\Lab4\HinhChuNhat_Bai4\HinhChuNhat_Bai4\obj\Debug\net8.0\HinhChuNhat_Bai4.AssemblyInfoInputs.cache
+D:\Ki2Nam4\Testing\Testing_Lab\Lab4\HinhChuNhat_Bai4\HinhChuNhat_Bai4\obj\Debug\net8.0\HinhChuNhat_Bai4.AssemblyInfo.cs
+D:\Ki2Nam4\Testing\Testing_Lab\Lab4\HinhChuNhat_Bai4\HinhChuNhat_Bai4\obj\Debug\net8.0\HinhChuNhat_Bai4.csproj.CoreCompileInputs.cache
+D:\Ki2Nam4\Testing\Testing_Lab\Lab4\HinhChuNhat_Bai4\HinhChuNhat_Bai4\obj\Debug\net8.0\HinhChuNhat_Bai4.sourcelink.json
+D:\Ki2Nam4\Testing\Testing_Lab\Lab4\HinhChuNhat_Bai4\HinhChuNhat_Bai4\obj\Debug\net8.0\HinhChuNhat_Bai4.dll
+D:\Ki2Nam4\Testing\Testing_Lab\Lab4\HinhChuNhat_Bai4\HinhChuNhat_Bai4\obj\Debug\net8.0\refint\HinhChuNhat_Bai4.dll
+D:\Ki2Nam4\Testing\Testing_Lab\Lab4\HinhChuNhat_Bai4\HinhChuNhat_Bai4\obj\Debug\net8.0\HinhChuNhat_Bai4.pdb
+D:\Ki2Nam4\Testing\Testing_Lab\Lab4\HinhChuNhat_Bai4\HinhChuNhat_Bai4\obj\Debug\net8.0\ref\HinhChuNhat_Bai4.dll

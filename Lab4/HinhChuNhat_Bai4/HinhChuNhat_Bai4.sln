@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HinhChuNhat_Bai4", "HinhChuNhat_Bai4\HinhChuNhat_Bai4.csproj", "{F52210D2-1F77-489E-896F-AE01FB9C0B03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HinhChuNhat_Test", "HinhChuNhat_Test\HinhChuNhat_Test.csproj", "{6CB2C998-5E73-463F-8095-DB51AE958E69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F52210D2-1F77-489E-896F-AE01FB9C0B03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F52210D2-1F77-489E-896F-AE01FB9C0B03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F52210D2-1F77-489E-896F-AE01FB9C0B03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F52210D2-1F77-489E-896F-AE01FB9C0B03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CB2C998-5E73-463F-8095-DB51AE958E69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CB2C998-5E73-463F-8095-DB51AE958E69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CB2C998-5E73-463F-8095-DB51AE958E69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CB2C998-5E73-463F-8095-DB51AE958E69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE244748-4880-4EC1-ABFA-71FF57EE1313}
+	EndGlobalSection
+EndGlobal

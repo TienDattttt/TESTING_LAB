@@ -1,0 +1,12 @@
+D:\Ki2Nam4\Testing\Testing_Lab\Lab4\PowerLib_Bai1\PowerLib_Bai1\bin\Debug\net8.0\PowerLib_Bai1.deps.json
+D:\Ki2Nam4\Testing\Testing_Lab\Lab4\PowerLib_Bai1\PowerLib_Bai1\bin\Debug\net8.0\PowerLib_Bai1.dll
+D:\Ki2Nam4\Testing\Testing_Lab\Lab4\PowerLib_Bai1\PowerLib_Bai1\bin\Debug\net8.0\PowerLib_Bai1.pdb
+D:\Ki2Nam4\Testing\Testing_Lab\Lab4\PowerLib_Bai1\PowerLib_Bai1\obj\Debug\net8.0\PowerLib_Bai1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ki2Nam4\Testing\Testing_Lab\Lab4\PowerLib_Bai1\PowerLib_Bai1\obj\Debug\net8.0\PowerLib_Bai1.AssemblyInfoInputs.cache
+D:\Ki2Nam4\Testing\Testing_Lab\Lab4\PowerLib_Bai1\PowerLib_Bai1\obj\Debug\net8.0\PowerLib_Bai1.AssemblyInfo.cs
+D:\Ki2Nam4\Testing\Testing_Lab\Lab4\PowerLib_Bai1\PowerLib_Bai1\obj\Debug\net8.0\PowerLib_Bai1.csproj.CoreCompileInputs.cache
+D:\Ki2Nam4\Testing\Testing_Lab\Lab4\PowerLib_Bai1\PowerLib_Bai1\obj\Debug\net8.0\PowerLib_Bai1.sourcelink.json
+D:\Ki2Nam4\Testing\Testing_Lab\Lab4\PowerLib_Bai1\PowerLib_Bai1\obj\Debug\net8.0\PowerLib_Bai1.dll
+D:\Ki2Nam4\Testing\Testing_Lab\Lab4\PowerLib_Bai1\PowerLib_Bai1\obj\Debug\net8.0\refint\PowerLib_Bai1.dll
+D:\Ki2Nam4\Testing\Testing_Lab\Lab4\PowerLib_Bai1\PowerLib_Bai1\obj\Debug\net8.0\PowerLib_Bai1.pdb
+D:\Ki2Nam4\Testing\Testing_Lab\Lab4\PowerLib_Bai1\PowerLib_Bai1\obj\Debug\net8.0\ref\PowerLib_Bai1.dll

@@ -1,0 +1,12 @@
+D:\Ki2Nam4\Testing\Testing_Lab\Lab4\Polynomial_Bai2\Polynomial_Bai2\bin\Debug\net8.0\Polynomial_Bai2.deps.json
+D:\Ki2Nam4\Testing\Testing_Lab\Lab4\Polynomial_Bai2\Polynomial_Bai2\bin\Debug\net8.0\Polynomial_Bai2.dll
+D:\Ki2Nam4\Testing\Testing_Lab\Lab4\Polynomial_Bai2\Polynomial_Bai2\bin\Debug\net8.0\Polynomial_Bai2.pdb
+D:\Ki2Nam4\Testing\Testing_Lab\Lab4\Polynomial_Bai2\Polynomial_Bai2\obj\Debug\net8.0\Polynomial_Bai2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ki2Nam4\Testing\Testing_Lab\Lab4\Polynomial_Bai2\Polynomial_Bai2\obj\Debug\net8.0\Polynomial_Bai2.AssemblyInfoInputs.cache
+D:\Ki2Nam4\Testing\Testing_Lab\Lab4\Polynomial_Bai2\Polynomial_Bai2\obj\Debug\net8.0\Polynomial_Bai2.AssemblyInfo.cs
+D:\Ki2Nam4\Testing\Testing_Lab\Lab4\Polynomial_Bai2\Polynomial_Bai2\obj\Debug\net8.0\Polynomial_Bai2.csproj.CoreCompileInputs.cache
+D:\Ki2Nam4\Testing\Testing_Lab\Lab4\Polynomial_Bai2\Polynomial_Bai2\obj\Debug\net8.0\Polynomial_Bai2.sourcelink.json
+D:\Ki2Nam4\Testing\Testing_Lab\Lab4\Polynomial_Bai2\Polynomial_Bai2\obj\Debug\net8.0\Polynomial_Bai2.dll
+D:\Ki2Nam4\Testing\Testing_Lab\Lab4\Polynomial_Bai2\Polynomial_Bai2\obj\Debug\net8.0\refint\Polynomial_Bai2.dll
+D:\Ki2Nam4\Testing\Testing_Lab\Lab4\Polynomial_Bai2\Polynomial_Bai2\obj\Debug\net8.0\Polynomial_Bai2.pdb
+D:\Ki2Nam4\Testing\Testing_Lab\Lab4\Polynomial_Bai2\Polynomial_Bai2\obj\Debug\net8.0\ref\Polynomial_Bai2.dll
