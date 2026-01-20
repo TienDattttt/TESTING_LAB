@@ -1,0 +1,14 @@
+D:\VTim\UDMH\ScholarshipApp\ScholarshipApp\bin\Debug\net8.0\ScholarshipApp.exe
+D:\VTim\UDMH\ScholarshipApp\ScholarshipApp\bin\Debug\net8.0\ScholarshipApp.deps.json
+D:\VTim\UDMH\ScholarshipApp\ScholarshipApp\bin\Debug\net8.0\ScholarshipApp.runtimeconfig.json
+D:\VTim\UDMH\ScholarshipApp\ScholarshipApp\bin\Debug\net8.0\ScholarshipApp.dll
+D:\VTim\UDMH\ScholarshipApp\ScholarshipApp\bin\Debug\net8.0\ScholarshipApp.pdb
+D:\VTim\UDMH\ScholarshipApp\ScholarshipApp\obj\Debug\net8.0\ScholarshipApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\VTim\UDMH\ScholarshipApp\ScholarshipApp\obj\Debug\net8.0\ScholarshipApp.AssemblyInfoInputs.cache
+D:\VTim\UDMH\ScholarshipApp\ScholarshipApp\obj\Debug\net8.0\ScholarshipApp.AssemblyInfo.cs
+D:\VTim\UDMH\ScholarshipApp\ScholarshipApp\obj\Debug\net8.0\ScholarshipApp.csproj.CoreCompileInputs.cache
+D:\VTim\UDMH\ScholarshipApp\ScholarshipApp\obj\Debug\net8.0\ScholarshipApp.dll
+D:\VTim\UDMH\ScholarshipApp\ScholarshipApp\obj\Debug\net8.0\refint\ScholarshipApp.dll
+D:\VTim\UDMH\ScholarshipApp\ScholarshipApp\obj\Debug\net8.0\ScholarshipApp.pdb
+D:\VTim\UDMH\ScholarshipApp\ScholarshipApp\obj\Debug\net8.0\ScholarshipApp.genruntimeconfig.cache
+D:\VTim\UDMH\ScholarshipApp\ScholarshipApp\obj\Debug\net8.0\ref\ScholarshipApp.dll

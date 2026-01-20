@@ -1,0 +1,12 @@
+D:\Ki2Nam4\Testing\Testing_Lab\Lab4\BaiTapApDung\BaiTapApDung\bin\Debug\BaiTapApDung.exe.config
+D:\Ki2Nam4\Testing\Testing_Lab\Lab4\BaiTapApDung\BaiTapApDung\bin\Debug\BaiTapApDung.exe
+D:\Ki2Nam4\Testing\Testing_Lab\Lab4\BaiTapApDung\BaiTapApDung\bin\Debug\BaiTapApDung.pdb
+D:\Ki2Nam4\Testing\Testing_Lab\Lab4\BaiTapApDung\BaiTapApDung\obj\Debug\BaiTapApDung.csproj.AssemblyReference.cache
+D:\Ki2Nam4\Testing\Testing_Lab\Lab4\BaiTapApDung\BaiTapApDung\obj\Debug\BaiTapApDung.Form1.resources
+D:\Ki2Nam4\Testing\Testing_Lab\Lab4\BaiTapApDung\BaiTapApDung\obj\Debug\BaiTapApDung.Properties.Resources.resources
+D:\Ki2Nam4\Testing\Testing_Lab\Lab4\BaiTapApDung\BaiTapApDung\obj\Debug\BaiTapApDung.csproj.GenerateResource.cache
+D:\Ki2Nam4\Testing\Testing_Lab\Lab4\BaiTapApDung\BaiTapApDung\obj\Debug\BaiTapApDung.csproj.CoreCompileInputs.cache
+D:\Ki2Nam4\Testing\Testing_Lab\Lab4\BaiTapApDung\BaiTapApDung\obj\Debug\BaiTapApDung.exe
+D:\Ki2Nam4\Testing\Testing_Lab\Lab4\BaiTapApDung\BaiTapApDung\obj\Debug\BaiTapApDung.pdb
+D:\Ki2Nam4\Testing\Testing_Lab\Lab4\BaiTapApDung\BaiTapApDung\obj\Debug\BaiTapApDung.exe.config
+D:\Ki2Nam4\Testing\Testing_Lab\Lab4\BaiTapApDung\BaiTapApDung\obj\Debug\BaiTapApDung.DirectorForm.resources

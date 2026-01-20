@@ -1,0 +1,14 @@
+D:\VTim\UDMH\RadixApp\RadixApp\bin\Debug\net8.0\RadixApp.exe
+D:\VTim\UDMH\RadixApp\RadixApp\bin\Debug\net8.0\RadixApp.deps.json
+D:\VTim\UDMH\RadixApp\RadixApp\bin\Debug\net8.0\RadixApp.runtimeconfig.json
+D:\VTim\UDMH\RadixApp\RadixApp\bin\Debug\net8.0\RadixApp.dll
+D:\VTim\UDMH\RadixApp\RadixApp\bin\Debug\net8.0\RadixApp.pdb
+D:\VTim\UDMH\RadixApp\RadixApp\obj\Debug\net8.0\RadixApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\VTim\UDMH\RadixApp\RadixApp\obj\Debug\net8.0\RadixApp.AssemblyInfoInputs.cache
+D:\VTim\UDMH\RadixApp\RadixApp\obj\Debug\net8.0\RadixApp.AssemblyInfo.cs
+D:\VTim\UDMH\RadixApp\RadixApp\obj\Debug\net8.0\RadixApp.csproj.CoreCompileInputs.cache
+D:\VTim\UDMH\RadixApp\RadixApp\obj\Debug\net8.0\RadixApp.dll
+D:\VTim\UDMH\RadixApp\RadixApp\obj\Debug\net8.0\refint\RadixApp.dll
+D:\VTim\UDMH\RadixApp\RadixApp\obj\Debug\net8.0\RadixApp.pdb
+D:\VTim\UDMH\RadixApp\RadixApp\obj\Debug\net8.0\RadixApp.genruntimeconfig.cache
+D:\VTim\UDMH\RadixApp\RadixApp\obj\Debug\net8.0\ref\RadixApp.dll

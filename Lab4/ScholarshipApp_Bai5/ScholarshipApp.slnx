@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ScholarshipApp.Tests/ScholarshipApp.Tests.csproj" />
+  <Project Path="ScholarshipApp/ScholarshipApp.csproj" />
+</Solution>
